@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "143423533794",
+    "firebase_url": "https://flutter-example-5c339.firebaseio.com",
+    "project_id": "flutter-example-5c339",
+    "storage_bucket": "flutter-example-5c339.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143423533794:android:5630ef3da62b2bd7",
+        "android_client_info": {
+          "package_name": "com.raevix.login_fb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143423533794-anlh7om6ukr4avstvb49ruhd9nh45m21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWmp1SstMAa-4VwALnG1tqUQpGl4ej4eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143423533794-anlh7om6ukr4avstvb49ruhd9nh45m21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
